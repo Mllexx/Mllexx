@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Andrew Muleke
 - 📚 I am software and systems engineer with experience in web development, technical support and systems engineering
-- 💻 My Dev stack includes: Laravel, PHP, MySQL/PostgreSQL
+- 💻 My Dev stack includes: Laravel, PHP, MySQL/PostgreSQL and Python (for scripting)
 - 🌱 I’m currently upskilling myself on Cloud and DevOps technologies
-- 💞️ I’m currently looking for opportunities in level 2/3 technical support and SRE.
+- 💞️ I’m currently looking for opportunities in level 2/3 technical support, DevOps and/or SRE.
 - 📫 How to reach me: mulekeandrew@gmail.com
