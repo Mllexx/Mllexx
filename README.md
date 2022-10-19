@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrew Muleke
-- 📚 I am software and systems engineer with experience in web development, technical support and systems engineering
-- 💻 My Dev stack includes: Laravel, PHP, MySQL/PostgreSQL and Python (for scripting)
+- 📚 I am software developer with systems engineering experience.
+- 💻 My Stack: Laravel | PHP | MySQL,PostgreSQL | Python (for scripting)
 - 🌱 I’m currently upskilling myself on Cloud and DevOps technologies
 - 💞️ I’m currently looking for opportunities in backend development, DevOps and/or SRE.
