@@ -3,3 +3,4 @@
 - 💻 My Stack (Dev):  Laravel | PHP | MySQL,PostgreSQL | Python (for scripting) | Docker/Git/CI/CD | Agile |Azure
 - 💻 My Stack (Systems):  Linux/Windows | Powershell/Bash | SQL Server | Backups & Monitoring| VMWare | Azure & Digital Ocean
 - 💞️ I’m currently looking for opportunities in backend development, DevOps and/or SRE.
+- I also write, check out my articles on [Medium](https://amuleke.medium.com/)
